@@ -1,0 +1,10 @@
+.animalContainer {
+    display: flex;
+    justify-content: center;
+    gap: 32px;
+}
+
+.animalContainer img {
+    width: 400px;
+    height: auto;
+}
