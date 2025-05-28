@@ -1,0 +1,10 @@
+.header {
+    padding: 24px;
+    display: flex;
+    justify-content: space-around;
+    background-color: red;
+}
+ 
+.header a {
+    font-size: 2rem;
+}
